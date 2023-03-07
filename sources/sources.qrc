@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/sources">
+        <file>enemies/worm.png</file>
+        <file>icon/1-1.png</file>
+        <file>icon/Leave.png</file>
+        <file>agents/defender76.png</file>
+        <file>agents/shooter.png</file>
+        <file>background/PointsBack.png</file>
+        <file>enemies/worm_attack.png</file>
+        <file>icon/Remove.png</file>
+        <file>agents/defender76.gif</file>
+        <file>agents/defender76_attack.gif</file>
+        <file>enemies/worm.gif</file>
+        <file>enemies/wizard.gif</file>
+        <file>enemies/wizard_attack.gif</file>
+        <file>enemies/archer.gif</file>
+        <file>enemies/archer_attack.gif</file>
+        <file>enemies/magian_attack.gif</file>
+        <file>enemies/magian.gif</file>
+        <file>agents/shooter_attack.gif</file>
+        <file>agents/shooter.gif</file>
+        <file>agents/car.gif</file>
+        <file>agents/trap_attack.gif</file>
+        <file>agents/trap.gif</file>
+        <file>enemies/drone_attack.gif</file>
+        <file>enemies/drone.gif</file>
+        <file>enemies/aggressivedrone_attack.gif</file>
+        <file>enemies/aggressivedrone.gif</file>
+        <file>agents/grey_attack.gif</file>
+        <file>agents/grey.gif</file>
+        <file>agents/alice_attack.gif</file>
+        <file>agents/alice.gif</file>
+        <file>agents/hhh.gif</file>
+        <file>agents/obstacle.gif</file>
+        <file>agents/robot_attack.gif</file>
+        <file>agents/robot.gif</file>
+        <file>anmi/bullet.png</file>
+    </qresource>
+</RCC>

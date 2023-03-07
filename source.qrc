@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/icon/1-1.png</file>
+        <file>sources/icon/Leave.png</file>
+        <file>sources/icon/Remove.png</file>
+        <file>sources/enemies/worm.gif</file>
+        <file>sources/agents/defender76.gif</file>
+        <file>sources/agents/defender76_attack.gif</file>
+        <file>sources/agents/shooter.gif</file>
+        <file>sources/agents/shooter_attack.gif</file>
+        <file>sources/anmi/bullet.png</file>
+        <file>sources/background/PointsBack.png</file>
+        <file>sources/buffs/buff1.gif</file>
+        <file>sources/buffs/buff2.gif</file>
+        <file>sources/buffs/buff3.gif</file>
+        <file>sources/buffs/buff4.gif</file>
+        <file>sources/enemies/speedworm.gif</file>
+        <file>sources/enemies/flashworm.gif</file>
+        <file>sources/enemies/doubleworm.gif</file>
+    </qresource>
+</RCC>
